@@ -1,0 +1,10 @@
+1)a)localhost:8000/movies
+
+
+b)http://localhost:8000/movies/the number of the movie in the list/
+
+
+c)def add_movie /def movie /an error page pops up 
+
+
+
