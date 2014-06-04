@@ -1,0 +1,5 @@
+Good job with the app. I think however that your alarm always goes off, no matter what time you put. There’s probably a bug somewhere in your timer that checks whether the sound is supposed to play that is always true. If you send me screenshots of your blocks editor I will look at it and tell you where the bug is. 
+
+My main comment about the app is that the user interface doesn’t really tell me what is going to happen. It is clear that I am supposed to enter a time (that part is done well), but it is unclear what I am supposed to take a picture of when the camera pops up. It would be helpful to have “helper text” somewhere in or around the app to tell me what I am supposed to do or what I should anticipate doing in the app. 
+
+Good job in working through the documentation and all of the bugs that came along with the hardware. 
